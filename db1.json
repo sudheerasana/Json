@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 01,
+      "url": "https://cdn.pixabay.com/photo/2016/11/21/11/55/fashion-1844888_960_720.jpg"
+    },
+    {
+      "id": 02,
+      "url": "https://cdn.pixabay.com/photo/2017/05/17/04/07/golden-apple-2319796_960_720.jpg"
+    },
+    {
+      "id": 03,
+      "url": "https://cdn.pixabay.com/photo/2017/05/17/04/04/golden-apple-2319791_960_720.jpg"
+    },
+    {
+      "id": 04,
+      "url": "https://cdn.pixabay.com/photo/2017/05/17/04/02/golden-apple-2319788_960_720.jpg"
+    },
+    {
+      "id": 05,
+      "url": "https://cdn.pixabay.com/photo/2016/11/18/12/49/men-1834268_960_720.jpg"
+    }
+  ]
+}
