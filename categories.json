@@ -2,23 +2,23 @@
   "categories": [
     {
       "id": 01,
-      "cat": "Mobiles, Computers"
+      "cat01": "Mobiles, Computers"
     },
     {
       "id": 02,
-      "cat": "TV, Appliances, Electronics"
+      "cat02": "TV, Appliances, Electronics"
     },
     {
       "id": 03,
-      "cat": "Men's Fashion"
+      "cat03": "Men's Fashion"
     },
     {
       "id": 04,
-      "cat": "Women's Fashion"
+      "cat04": "Women's Fashion"
     },
     {
       "id": 05,
-      "cat": "Books"
+      "cat05": "Books"
     }
   ]
 }
