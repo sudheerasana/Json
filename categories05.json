@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "prodid": 01,
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/41yrM-8Y1lL._SX343_BO1,204,203,200_.jpg"
+    },
+    {
+      "prodid": 02,
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/51rJ6-nCPsL._SX325_BO1,204,203,200_.jpg"
+    },
+    {
+      "prodid": 03,
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/61gIz33AGGL._SX321_BO1,204,203,200_.jpg"
+    },
+    {
+      "prodid": 04,
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/51Y8jwGiebL._SX328_BO1,204,203,200_.jpg"
+    },
+    {
+      "prodid": 05,
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/516wObHOvbL._SX330_BO1,204,203,200_.jpg"
+    },
+    {
+      "prodid": 06,
+      "produrl": "https://images-eu.ssl-images-amazon.com/images/I/51OqoCRJb5L.jpg"
+    }
+  ]
+}
