@@ -1,0 +1,20 @@
+{
+  "new": [
+    {
+      "prodid": 01,
+      "produrl": "https://cdn.pixabay.com/photo/2015/09/02/12/35/shoes-918543_960_720.jpg"
+    },
+    {
+      "prodid": 02,
+      "produrl": "https://cdn.pixabay.com/photo/2016/01/19/18/06/brown-shoes-1150071_960_720.jpg"
+    },
+    {
+      "prodid": 03,
+      "produrl": "https://cdn.pixabay.com/photo/2015/08/05/09/55/mens-shoes-875950_960_720.jpg"
+    },
+    {
+      "prodid": 04,
+      "produrl": "https://cdn.pixabay.com/photo/2015/01/16/15/01/fashion-601565_960_720.jpg"
+    }
+  ]
+}
