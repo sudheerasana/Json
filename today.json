@@ -1,0 +1,44 @@
+{
+  "today": [
+    {
+      "prodid": 01,
+      "produrl": "https://cdn.pixabay.com/photo/2013/07/12/18/58/laptop-154091_960_720.png"
+    },
+    {
+      "prodid": 02,
+      "produrl": "https://cdn.pixabay.com/photo/2013/07/12/15/04/monitor-149362_960_720.png"
+    },
+    {
+      "prodid": 03,
+      "produrl": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876_960_720.jpg"
+    },
+    {
+      "prodid": 04,
+      "produrl": "https://cdn.pixabay.com/photo/2016/10/24/21/03/appliance-1767311_960_720.jpg"
+    },
+    {
+      "prodid": 05,
+      "produrl": "https://cdn.pixabay.com/photo/2016/11/21/11/55/fashion-1844888_960_720.jpg"
+    },
+    {
+      "prodid": 06,
+      "produrl": "https://cdn.pixabay.com/photo/2017/05/17/04/02/golden-apple-2319788_960_720.jpg"
+    },
+    {
+      "prodid": 07,
+      "produrl": "https://cdn.pixabay.com/photo/2017/07/30/14/03/portrait-2554429_960_720.jpg"
+    },
+    {
+      "prodid": 08,
+      "produrl": "https://cdn.pixabay.com/photo/2017/08/17/12/44/model-2651147_960_720.jpg"
+    },
+    {
+      "prodid": 09,
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/51Y8jwGiebL._SX328_BO1,204,203,200_.jpg"
+    },
+    {
+      "prodid": 10,
+      "produrl": "https://cdn.pixabay.com/photo/2017/07/30/14/03/portrait-2554431_960_720.jpg"
+    }
+  ]
+}
