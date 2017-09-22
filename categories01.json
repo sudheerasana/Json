@@ -2,27 +2,40 @@
   "products": [
     {
       "prodid": 01,
-      "produrl": "https://cdn.pixabay.com/photo/2013/07/12/18/58/laptop-154091_960_720.png"
+      "prodname": "OnePlus 3T (Gunmetal, 6GB RAM + 64GB memory)",
+      "price": "29,999",
+      "produrl": "http://static.digit.in/product/8e55ce0def914bce6fb44b16267d11e65e8f8dd3.jpeg"
     },
     {
       "prodid": 02,
-      "produrl": "https://cdn.pixabay.com/photo/2017/08/07/22/21/technology-2608530_960_720.jpg"
+      "prodname": "Moto G5s Plus (Lunar Grey, 64GB)",
+      "price": "15,999",
+      "produrl": "http://static.digit.in/product/7cc73a69675eec293aa83786ade727ce1a819f17.jpeg"
     },
     {
       "prodid": 03,
-      "produrl": "https://cdn.pixabay.com/photo/2017/04/26/16/06/mobile-2262928_960_720.jpg"
+      "prodname": "Apple iPhone 7 (Jet Black, 128GB)",
+      "price": "49,999",
+      "produrl": "https://img.grouponcdn.com/deal/BMatigGcu8N8Rp1qERnRDcK2mNj/BM-2048x1229/v1/c700x420.jpg"
     },
     {
       "prodid": 04,
-      "produrl": "https://cdn.pixabay.com/photo/2017/01/22/15/56/mobile-phone-2000081_960_720.jpg"
+      "prodname": "Lenovo IdeaPad Thin and Light 320S-14IKB 80X400CLIN 14-inch Laptop",
+      "price": "34,990",
+      "produrl": "https://i0.wp.com/laptopmedia.com/wp-content/uploads/2017/08/lenovo-ideapad-320s-14-front-1.jpg?fit=1060%2C596"
     },
     {
       "prodid": 05,
-      "produrl": "https://cdn.pixabay.com/photo/2017/05/18/16/54/laptop-2324121_960_720.jpg"
+      "prodname": "HP 15-BY003AU 2017 15.6-inch Laptop",
+      "price": "22,990",
+      "produrl": "https://rukminim1.flixcart.com/image/704/704/j1mggi80/computer/b/j/e/hp-notebook-original-imaekusm2wdqwy8c.jpeg?q=70"
     },
     {
       "prodid": 06,
-      "produrl": "https://cdn.pixabay.com/photo/2013/07/12/15/04/monitor-149362_960_720.png"
+      "prodname": "Apple MacBook Air MQD32HN/A",
+      "price": "51,990",
+      "produrl": "http://qa.pricenacdn.com/files/images/products/original/6/Apple-Macbook-Air-133-128-GB_3061181_7b2ed463afc5274e382656a365f5d4d5.jpg
+"
     }
   ]
 }
