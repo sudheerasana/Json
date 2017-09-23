@@ -2,27 +2,39 @@
   "products": [
     {
       "prodid": 01,
+      "prodname": "Indian Polity 5th Edition",
+      "price": "415",
       "produrl": "https://images-na.ssl-images-amazon.com/images/I/41yrM-8Y1lL._SX343_BO1,204,203,200_.jpg"
     },
     {
       "prodid": 02,
-      "produrl": "https://images-na.ssl-images-amazon.com/images/I/51rJ6-nCPsL._SX325_BO1,204,203,200_.jpg"
+      "prodname": "Sita - Warrior of Mithila (Book 2- Ram Chandra Series)",
+      "price": "175",
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/51Qx-ffaNgL._SX323_BO1,204,203,200_.jpg"
     },
     {
       "prodid": 03,
-      "produrl": "https://images-na.ssl-images-amazon.com/images/I/61gIz33AGGL._SX321_BO1,204,203,200_.jpg"
+      "prodname": "Harry Potter and the Philosopher's Stone",
+      "price": "215",
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/51ZbaPy4y0L._SX321_BO1,204,203,200_.jpg"
     },
     {
       "prodid": 04,
+      "prodname": "Think and Grow Rich",
+      "price": "75",
       "produrl": "https://images-na.ssl-images-amazon.com/images/I/51Y8jwGiebL._SX328_BO1,204,203,200_.jpg"
     },
     {
       "prodid": 05,
-      "produrl": "https://images-na.ssl-images-amazon.com/images/I/516wObHOvbL._SX330_BO1,204,203,200_.jpg"
+      "prodname": "Wings of Fire: An Autobiography of Abdul Kalam",
+      "price": " 186",
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/51GOeqH0bIL._SX330_BO1,204,203,200_.jpg"
     },
     {
       "prodid": 06,
-      "produrl": "https://images-eu.ssl-images-amazon.com/images/I/51OqoCRJb5L.jpg"
+      "prodname": "A Game of Thrones (A Song of Ice and Fire)",
+      "price": "399",
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/51Vb90Q1SlL._SX324_BO1,204,203,200_.jpg"
     }
   ]
 }

@@ -2,23 +2,39 @@
   "products": [
     {
       "prodid": 01,
-      "produrl": "https://cdn.pixabay.com/photo/2016/11/21/11/55/fashion-1844888_960_720.jpg"
+      "prodname": "Levi's Men's Casual Shirt",
+      "price": "999",
+      "produrl": "http://lsco1.scene7.com/is/image/lsco/Levi/clothing/163650034-front-pdp.jpg?$2500x2000$"
     },
     {
       "prodid": 02,
-      "produrl": "https://cdn.pixabay.com/photo/2017/05/17/04/07/golden-apple-2319796_960_720.jpg"
+      "prodname": "Levi's Men's Slim Fit Jeans",
+      "price": "1,499",
+      "produrl": "http://lsco.scene7.com/is/image/lsco/Levi/clothing/005051396-front-grid.jpg"
     },
     {
       "prodid": 03,
-      "produrl": "https://cdn.pixabay.com/photo/2017/05/17/04/04/golden-apple-2319791_960_720.jpg"
+      "prodname": "Fastrack Bikers Analog White Dial Men's Watch",
+      "price": "2,476",
+      "produrl": "http://www.brandbag.co.in/image/cache/catalog/394968/zeit-brown-casual-watch-3-product-226x226.jpg"
     },
     {
       "prodid": 04,
-      "produrl": "https://cdn.pixabay.com/photo/2017/05/17/04/02/golden-apple-2319788_960_720.jpg"
+      "prodname": "Fastrack Economy 2013 Analog Blue Dial Men's Watch",
+      "price": "1,668",
+      "produrl": "http://expatsadda.com/img/news/world/1.jpg"
     },
     {
       "prodid": 05,
-      "produrl": "https://cdn.pixabay.com/photo/2016/11/18/12/49/men-1834268_960_720.jpg"
+      "prodname": "Puma Unisex Turin Sneakers",
+      "price": "1,589",
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/71BKIObIoSL._UX395_.jpg"
+    },
+    {
+      "prodid": 06,
+      "prodname": "Woodland Men's Leather Espadrille Flats",
+      "price": "3,895",
+      "produrl": "https://i.ytimg.com/vi/1W8OMW0B-gQ/maxresdefault.jpg"
     }
   ]
 }

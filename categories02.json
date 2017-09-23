@@ -2,27 +2,39 @@
   "products": [
     {
       "prodid": 01,
-      "produrl": "https://cdn.pixabay.com/photo/2012/04/13/15/03/monitor-32743_960_720.png"
+      "prodname": "Sony 108 cm (43 inches) Bravia KDL-43W800D Full HD 3D LED Android TV",
+      "price": "54,990",
+      "produrl": "https://images-na.ssl-images-amazon.com/images/I/61tcvmvgmlL._SL1500_.jpg"
     },
     {
       "prodid": 02,
-      "produrl": "https://cdn.pixabay.com/photo/2013/07/13/01/08/monitor-155158_960_720.png"
+      "prodname": "LG 108 cm (43 inches) 43LJ554T Full HD LED Smart",
+      "price": "40,990",
+      "produrl": "https://rukminim1.flixcart.com/image/704/704/j65cnm80/television/w/s/6/lg-43lj554t-original-imaewzch5qqjer7z.jpeg?q=70"
     },
     {
       "prodid": 03,
-      "produrl": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876_960_720.jpg"
+      "prodname": "Haier HRF 618 SS Frost-free Side-by-Side Refrigerator (565 Ltrs, Grey)",
+      "price": "50,990",
+      "produrl": "https://www.compareprix.in/images/product/large/Haier%20HRF%20618SS%20Side%20By%20Side%20Door%20565%20Litres%20Frost%20Free%20Refrigerator.jpeg"
     },
     {
       "prodid": 04,
-      "produrl": "https://cdn.pixabay.com/photo/2016/03/24/15/29/monitor-1276949_960_720.jpg"
+      "prodname": "Samsung 345 L 3 Star Frost-Free Double Door Refrigerator (RT37M3743S8, Elegant Inox)",
+      "price": "32,690",
+      "produrl": "https://hnsgsfp.imgix.net/4/images/detailed/26/HitachiRSG38FPSSolfegeSeries357L3DoorRefrigeratorGlassSilver.jpg?fit=fill&bg=0FFF&w=1512&h=869&auto=format,compress"
     },
     {
       "prodid": 05,
-      "produrl": "https://cdn.pixabay.com/photo/2016/10/24/21/03/appliance-1767311_960_720.jpg"
+      "prodname": "Prestige Iris 750-Watt Mixer Grinder",
+      "price": "2,499",
+      "produrl": "https://rukminim1.flixcart.com/image/704/704/mixer-grinder-juicer/g/f/j/prestige-elegant-original-imaeqjggfja8gfrq.jpeg?q=70"
     },
     {
       "prodid": 06,
-      "produrl": "https://cdn.pixabay.com/photo/2017/01/02/10/31/lemon-squeezer-1946441_960_720.jpg"
+      "prodname": "Prestige PIC 20 1200-Watt Induction Cooktop",
+      "price": "1,535",
+      "produrl": "https://rukminim1.flixcart.com/image/1408/1408/induction-cook-top/y/q/q/prestige-mini-pic-1-0-mini-original-imae3fupyh7zfsve.jpeg?q=90"
     }
   ]
 }

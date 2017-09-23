@@ -2,27 +2,39 @@
   "products": [
     {
       "prodid": 01,
-      "produrl": "https://cdn.pixabay.com/photo/2017/07/30/14/03/portrait-2554429_960_720.jpg"
+      "prodname": "W for Woman Straight Kurta ",
+      "price": "799",
+      "produrl": "http://stat.homeshop18.com/homeshop18/images/productImages/363/ziyaa-womens-crepe-kurta-white-black-714X1000-5X7-4b95a6adc17e468caf1f9885912533b2.jpg"
     },
     {
       "prodid": 02,
-      "produrl": "https://cdn.pixabay.com/photo/2017/08/07/11/21/model-2602794_960_720.jpg"
+      "prodname": "BIBA Women's Anarkali Kurta",
+      "price": "1,599",
+      "produrl": "http://4.bp.blogspot.com/-6P5LqITOvz4/U0o-VVrzL3I/AAAAAAAACLc/ig3ZUg5A9jI/s1600/BIBA-Women-Kurtas_03d31cd246685ba8667aae2c61a44a25_images_1080_1440_mini.jpg"
     },
     {
       "prodid": 03,
-      "produrl": "https://cdn.pixabay.com/photo/2017/08/07/23/57/womens-2609368_960_720.jpg"
+      "prodname": "Fossil End-of-Season Analog Brown Dial Unisex Watch ES3364",
+      "price": "6,996",
+      "produrl": "http://smartwatchme.s3.amazonaws.com/original/2X/e/e898722b99cc9ca359f0c61f6be97218cc328c19.jpg"
     },
     {
       "prodid": 04,
-      "produrl": "https://cdn.pixabay.com/photo/2017/08/17/12/44/model-2651147_960_720.jpg"
+      "prodname": "Giordano Chronograph",
+      "price": "1,304",
+      "produrl": "https://n4.sdlcdn.com/imgs/e/z/r/230X258_sharpened/Giordano-Analog-White-Dial-Women-SDL203234214-1-1f84a.jpg"
     },
     {
       "prodid": 05,
-      "produrl": "https://cdn.pixabay.com/photo/2017/07/30/14/03/portrait-2554431_960_720.jpg"
+      "prodname": "Catwalk Women's Fashion Ballet Flats",
+      "price": " 877",
+      "produrl": "https://i.pinimg.com/736x/70/5f/64/705f64fa59ed1d0ad28cb065ed2e4640--hermes-shoes-mules-shoes.jpg"
     },
     {
       "prodid": 06,
-      "produrl": "https://cdn.pixabay.com/photo/2017/08/05/03/14/fashion-2582187_960_720.jpg"
+      "prodname": "Clarks Women's Alicia Allie Pumps",
+      "price": "1,599",
+      "produrl": "https://s7g10.scene7.com/is/image/Pangaea2Build/26128241_W_1"
     }
   ]
 }
